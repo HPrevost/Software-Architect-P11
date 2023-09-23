@@ -10,6 +10,8 @@
 * Increase the quality of emergency treatments and save more lives.
 * Achieve user confidence around the simplicity of such a system.
 
+/!\ The following requirement lines have been crossed out as they are not relevant because the POC tests have not been run in a production environment
+
 **We will know we have succeeded when we see:**
 * ~~That over 90% of emergency cases are derived to the nearest relevant hospital in the network~~.
 * ~~That the average of emergency derivations go from 18.25 minutes (today) to 12.00 minutes (desired value)~~.
