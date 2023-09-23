@@ -11,12 +11,12 @@
 * Achieve user confidence around the simplicity of such a system.
 
 **We will know we have succeeded when we see:**
-* ~~That over 90% of emergency cases are derived to the nearest relevant hospital in the network.
-* ~~That the average of emergency derivations go from 18.25 minutes (today) to 12.00 minutes (desired value).
-* ~~That we get less than 200 millisecond response time maintained under a load of up to 800 requests per second, per service instance.
+* ~~That over 90% of emergency cases are derived to the nearest relevant hospital in the network~~.
+* ~~That the average of emergency derivations go from 18.25 minutes (today) to 12.00 minutes (desired value)~~.
+* ~~That we get less than 200 millisecond response time maintained under a load of up to 800 requests per second, per service instance~~.
 * ~~An implementation that explains which standards it respects and why.
-* ~~Instructions to put into production the PoC.
-* ~~Implementation completed within the allocated timeframe.
+* Instructions to put into production the PoC.
+* ~~Implementation completed within the allocated timeframe~~.
 
 # Example Behavior and a Description of the Capability
 
